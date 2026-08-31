@@ -43,7 +43,7 @@
 ## Setup and Installation  
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/ayuxy027/MasterG.git
+   git clone https://github.com/ayuxy027/MasterG.git](https://github.com/MEGHANA77777/VidyaSaathi
    ```
 2. **Install frontend dependencies:**  
    ```bash
